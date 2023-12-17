@@ -8,8 +8,6 @@ Gałąź bostonhousing_dataset jest przykładem regresji liniowej dla zbioru dan
 
 ![obraz](https://github.com/RobertNeat/Linear_regression/assets/47086490/9096c75e-dae1-4d53-aa63-288d1daf4cb6)
 
-https://github.com/RobertNeat/Linear_regression/assets/47086490/9096c75e-dae1-4d53-aa63-288d1daf4cb6
-
 The process of generating linear regression consists of loading data from a file, dividing the data into scientific and test batch, and training the model.
 
 # Launching project
