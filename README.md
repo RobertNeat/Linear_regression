@@ -15,6 +15,4 @@ The process of generating linear regression consists of loading data from a file
 To run the project, use the Google Colab environment via the Gist website (add learning data from the github project resources):
 [gist link](https://gist.github.com/RobertNeat/e33661412489c9d95b9a428fd0347c2f)
 
-<script src="https://gist.github.com/RobertNeat/e33661412489c9d95b9a428fd0347c2f.js"></script>
-
 Or you can download repository branch and launch the project locally using [DataSpell](https://www.jetbrains.com/dataspell/) or [PyCharm](https://www.jetbrains.com/pycharm/) by JetBrains. You can also launch it using [Spyder IDE](https://www.spyder-ide.org/). When launching locally remember to have the dataset files inside your project directory to avoid problems.
